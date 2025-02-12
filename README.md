@@ -1,4 +1,4 @@
-# CFL-Example
+# Causal Learning for Social Science Replication Package
 
 Make sure you installed the following packages:
 ```
